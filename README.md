@@ -1,16 +1,67 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Emmanuel Lijo</h1>
+<p align="center">
+  <em>14-year-old developer, language designer, and builder of bold things.</em><br>
+  <em>I learn by doing, then I learn again by digging deep. </em>
+</p>
 
-<!--
-**UnitaryIron/UnitaryIron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I'm the creator of **Jam**, a beginner-friendly programming language inspired by natural language
+- I built a full **virtual physics lab** with data visualization and interactive simulations in JavaScript
+- Created my own AI **assistant** (like Jarvis) using Python, speech recognition, and NLP
+- Designed a chatbot that speaks my language — literally
+- Working on a **fitness platform** with Google Sign-In, ReCAPTCHA, and more
+- Also building an **e-commerce website** from scratch
+
+> I don’t just follow tutorials — I **learn by building**, then revisit and **master the concepts** in depth.
+
+---
+
+### Interests
+
+- Programming Languages & Natural Language Interfaces
+- Physics Simulations & Educational Tools
+- AI Assistants & Human-Centered Interfaces
+- Web Platforms & Full Stack Development
+
+---
+
+### Feedback
+
+I've had conversations and received feedback from:
+- Vint Cerf
+- Hal Abelson
+- Guillermo Rauch
+- Brian Harvey, Adam Chlipala, Amy J. Ko, Matthias Felleisen and others.
+
+---
+
+### Projects
+
+| Project | Description |
+|--------|-------------|
+| [Jam](https://github.com/UnitaryIron/Jam) | Natural language-inspired programming language with JS translation and interpreter |
+| Physics Lab | JavaScript-powered real-time pendulum, projectile, and wave simulations |
+| AI Assistant | Python voice assistant using gTTS, WolframAlpha, Wikipedia, system control & more |
+| Fitness Platform | Secure user-auth fitness web app with full-stack logic |
+
+
+---
+
+### Contact
+
+- Email: emmanuellijo670@gmail.com
+- Portfolio: https://emmanuel-dev-three.vercel.app/ (Not updated)
+- GitHub: [@UnitaryIron](https://github.com/UnitaryIron)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=UnitaryIron&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <em>“Curiosity is not a phase. It’s a force.”</em>
+</p>
