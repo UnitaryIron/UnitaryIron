@@ -42,10 +42,11 @@ I've had conversations and received feedback from:
 
 | Project | Description |
 |--------|-------------|
-| [Jam](https://github.com/UnitaryIron/Jam) | Natural language-inspired programming language with JS translation and interpreter |
-| Physics Lab | JavaScript-powered real-time pendulum, projectile, and wave simulations |
+| [Jam](https://github.com/UnitaryIron/Jam-backend) | Natural language-inspired programming language with JS translation and interpreter |
+| [Jam's IDE](https://github.com/UnitaryIron/Jam-IDE) | Web based IDE for Jam made in Monaco |
+| [Physics Lab](https://github.com/UnitaryIron/GravityGrid) | JavaScript-powered real-time pendulum, projectile, and wave simulations |
 | AI Assistant | Python voice assistant using gTTS, WolframAlpha, Wikipedia, system control & more |
-| Fitness Platform | Secure user-auth fitness web app with full-stack logic |
+| [Fitness Platform](https://github.com/UnitaryIron/Synergy-Fit) | Secure user-auth fitness web app with full-stack logic |
 
 
 ---
