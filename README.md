@@ -45,6 +45,7 @@ I've had conversations and received feedback from:
 | [Jam](https://github.com/UnitaryIron/Jam-backend) | Natural language-inspired programming language with JS translation and interpreter |
 | [Jam's IDE](https://github.com/UnitaryIron/Jam-IDE) | Web based IDE for Jam made in Monaco |
 | [Physics Lab](https://github.com/UnitaryIron/GravityGrid) | JavaScript-powered real-time pendulum, projectile, and wave simulations |
+| [Genimatic](https://github.com/UnitaryIron/Genimatic) | Open-source AI image generation website, with different styles, gallery etc. powered by Pollinations API |
 | AI Assistant | Python voice assistant using gTTS, WolframAlpha, Wikipedia, system control & more |
 | [Fitness Platform](https://github.com/UnitaryIron/Synergy-Fit) | Secure user-auth fitness web app with full-stack logic |
 
