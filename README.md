@@ -38,7 +38,7 @@ I've had conversations and received feedback from:
 
 ---
 
-### Projects
+### Featured Projects
 
 | Project | Description |
 |--------|-------------|
