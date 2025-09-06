@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Emmanuel Lijo</h1>
 <p align="center">
-  <em>14-year-old developer, language designer, and builder of bold things.</em><br>
+  <em>15-year-old developer, language designer, and builder of bold things.</em><br>
   <em>I learn by doing, then I learn again by digging deep. </em>
 </p>
 
@@ -47,7 +47,6 @@ I've had conversations and received feedback from:
 | [Physics Lab](https://github.com/UnitaryIron/GravityGrid) | JavaScript-powered real-time pendulum, projectile, and wave simulations |
 | [Genimatic](https://github.com/UnitaryIron/Genimatic) | Open-source AI image generation website, with different styles, gallery etc. powered by Pollinations API |
 | AI Assistant | Python voice assistant using gTTS, WolframAlpha, Wikipedia, system control & more |
-| [Fitness Platform](https://github.com/UnitaryIron/Synergy-Fit) | Secure user-auth fitness web app with full-stack logic |
 
 
 ---
