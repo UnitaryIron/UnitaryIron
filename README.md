@@ -43,6 +43,7 @@ I've had conversations and received feedback from:
 | Project | Description |
 |--------|-------------|
 | [Jam](https://github.com/UnitaryIron/Jam-backend) | Natural language-inspired programming language with JS translation and interpreter |
+| [Logify](https://github.com/UnitaryIron/Logify-Backend) | Production-ready auth system with email/password registration, JWT tokens, and secure password hashing |
 | [Jam's IDE](https://github.com/UnitaryIron/Jam-IDE) | Web based IDE for Jam made in Monaco |
 | [Physics Lab](https://github.com/UnitaryIron/GravityGrid) | JavaScript-powered real-time pendulum, projectile, and wave simulations |
 | [Genimatic](https://github.com/UnitaryIron/Genimatic) | Open-source AI image generation website, with different styles, gallery etc. powered by Pollinations API |
