@@ -11,9 +11,7 @@
 - I'm the creator of **Jam**, a beginner-friendly programming language inspired by natural language
 - I built a full **virtual physics lab** with data visualization and interactive simulations in JavaScript
 - Created my own AI **assistant** (like Jarvis) using Python, speech recognition, and NLP
-- Designed a chatbot that speaks my language — literally
-- Working on a **fitness platform** with Google Sign-In, ReCAPTCHA, and more
-- Also building an **e-commerce website** from scratch
+- Designed a chatbot that speaks my language — literally.
 
 > I don’t just follow tutorials — I **learn by building**, then revisit and **master the concepts** in depth.
 
