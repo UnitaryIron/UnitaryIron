@@ -1,54 +1,42 @@
-<h1 align="center">Hi, I'm me!</h1>
-<p align="center">
-  <em>a developer, language designer, and builder of stuff.</em><br>
-</p>
+# Hi, I build programming languages, AI systems, and interactive software.
+
+I’m a developer focused on making computing more intuitive and expressive.
+
+Currently building **Jam**, a programming language designed to reduce cognitive load and align code with natural human thinking.
 
 ---
 
-### About Me
+## Work
 
-- I'm the creator of **Jam**, a beginner-friendly programming language inspired by natural language
-- I built a full **virtual physics lab** with data visualization and interactive simulations in JavaScript
-- Created my own AI **assistant** (like Jarvis) using Python, speech recognition, and NLP
-- Designed a chatbot that speaks my language (not English. Jam)
-- Feel free to try it out. Every user shall get monetary benefits equalling to one penny, adjusted for inflation from the year 3026.
-
-> What do you think is the full form of Jam? 
+- Designed and implemented **Jam**, including a transpiler, interpreter, and web-based IDE  
+- Built interactive **physics simulations** with real-time visualization  
+- Developed AI systems with speech recognition and natural language capabilities  
+- Created full-stack applications with authentication, APIs, and scalable architecture  
 
 ---
 
-### Interests
+## Interests
 
-- Programming Languages & Natural Language Interfaces
-- Physics Simulations & Educational Tools
-- AI Assistants & Human-Centered Interfaces
-- Web Platforms & Full Stack Development
-- And many more. Wouldn't fill in here. Contact unitaryiron@proton.me to get the full list. 
-
----
-
+- Programming Language Design  
+- Human-Centered Computing  
+- Educational Technology  
+- Full Stack Development  
 
 ---
 
-### Featured Projects
+## Notes
 
-| Project | Description |
-|--------|-------------|
-| [Jam](https://github.com/UnitaryIron/Jam-backend) | Natural language-inspired programming language with JS translation and interpreter |
-| [Logify](https://github.com/UnitaryIron/Logify-Backend) | Production-ready auth system with email/password registration, JWT tokens, and secure password hashing |
-| [Jam's IDE](https://github.com/UnitaryIron/Jam-IDE) | Web based IDE for Jam made in Monaco |
-| [Physics Lab](https://github.com/UnitaryIron/GravityGrid) | JavaScript-powered real-time pendulum, projectile, and wave simulations |
-| [Genimatic](https://github.com/UnitaryIron/Genimatic) | Open-source AI image generation website, with different styles, gallery etc. powered by Pollinations API |
-| AI Assistant | Python voice assistant using gTTS, , Wikipedia, system control & more |
+I learn by building, then revisiting systems to understand them deeply.
+
+Some of my work and ideas have received feedback from researchers and educators, including Vint Cerf and Amy J Ko. 
 
 ---
 
-### Contact
+## Contact
 
-- Email: unitaryiron@proton.me
-- GitHub: [@UnitaryIron](https://github.com/UnitaryIron)
-- How old do you think I am? 
+- Email: unitaryiron@proton.me  
+- GitHub: @UnitaryIron  
+
 ---
-<p align="center">
-  <em>Got the full form yet? (Just a name!)</em>
-</p>
+
+*What do you think Jam stands for?*
