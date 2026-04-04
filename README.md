@@ -1,7 +1,6 @@
-<h1 align="center">Hi, I'm Emmanuel Lijo</h1>
+<h1 align="center">Hi, I'm me!</h1>
 <p align="center">
-  <em>15-year-old developer, language designer, and builder of bold things.</em><br>
-  <em>I learn by doing, then I learn again by digging deep. </em>
+  <em>a developer, language designer, and builder of stuff.</em><br>
 </p>
 
 ---
@@ -11,9 +10,10 @@
 - I'm the creator of **Jam**, a beginner-friendly programming language inspired by natural language
 - I built a full **virtual physics lab** with data visualization and interactive simulations in JavaScript
 - Created my own AI **assistant** (like Jarvis) using Python, speech recognition, and NLP
-- Designed a chatbot that speaks my language — literally.
+- Designed a chatbot that speaks my language (not English. Jam)
+- (not bragging)
 
-> I don’t just follow tutorials — I **learn by building**, then revisit and **master the concepts** in depth.
+> I don’t follow tutorials. It' a rite of passage, sure. Let's just say I've grown past it. 
 
 ---
 
@@ -23,6 +23,7 @@
 - Physics Simulations & Educational Tools
 - AI Assistants & Human-Centered Interfaces
 - Web Platforms & Full Stack Development
+- And many more. Wouldn't fill in here. Contact unitaryiron@proton.me to get the full list. 
 
 ---
 
@@ -33,6 +34,7 @@ I've had conversations and received feedback from:
 - Hal Abelson
 - Guillermo Rauch
 - Brian Harvey, Adam Chlipala, Amy J. Ko, Matthias Felleisen and others.
+- it was a nice experience.
 
 ---
 
@@ -45,22 +47,17 @@ I've had conversations and received feedback from:
 | [Jam's IDE](https://github.com/UnitaryIron/Jam-IDE) | Web based IDE for Jam made in Monaco |
 | [Physics Lab](https://github.com/UnitaryIron/GravityGrid) | JavaScript-powered real-time pendulum, projectile, and wave simulations |
 | [Genimatic](https://github.com/UnitaryIron/Genimatic) | Open-source AI image generation website, with different styles, gallery etc. powered by Pollinations API |
-| AI Assistant | Python voice assistant using gTTS, WolframAlpha, Wikipedia, system control & more |
+| AI Assistant | Python voice assistant using gTTS, , Wikipedia, system control & more |
 
-
+- Don't you think it's cool?
 ---
 
 ### Contact
 
 - Email: unitaryiron@proton.me
 - GitHub: [@UnitaryIron](https://github.com/UnitaryIron)
-
+- How old do you think I am? 
 ---
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UnitaryIron&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <em>“Curiosity is not a phase. It’s a force.”</em>
+  <em>“Look to your right. What do you see? Don't bother telling me. I don't care anyways. ”</em>
 </p>
