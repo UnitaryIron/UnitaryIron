@@ -13,7 +13,7 @@
 - Designed a chatbot that speaks my language (not English. Jam)
 - (not bragging)
 
-> I don’t follow tutorials. Let's just say I've grown past it. 
+> What do you think is the full form of Jam? 
 
 ---
 
@@ -27,14 +27,6 @@
 
 ---
 
-### Feedback
-
-I've had conversations and received feedback from:
-- Vint Cerf
-- Hal Abelson
-- Guillermo Rauch
-- Brian Harvey, Adam Chlipala, Amy J. Ko, Matthias Felleisen and others.
-- it was a nice experience.
 
 ---
 
@@ -59,5 +51,5 @@ I've had conversations and received feedback from:
 - How old do you think I am? 
 ---
 <p align="center">
-  <em>“Look to your right. What do you see? Don't bother telling me. I don't care anyways. ”</em>
+  <em>Got the full form yet? It's just a name. Ever bothered asking Guido Van Rossum the full form of Python? It could be a side quest!</em>
 </p>
