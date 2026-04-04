@@ -13,7 +13,7 @@
 - Designed a chatbot that speaks my language (not English. Jam)
 - (not bragging)
 
-> I don’t follow tutorials. It' a rite of passage, sure. Let's just say I've grown past it. 
+> I don’t follow tutorials. Let's just say I've grown past it. 
 
 ---
 
