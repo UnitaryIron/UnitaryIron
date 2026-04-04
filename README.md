@@ -11,7 +11,7 @@
 - I built a full **virtual physics lab** with data visualization and interactive simulations in JavaScript
 - Created my own AI **assistant** (like Jarvis) using Python, speech recognition, and NLP
 - Designed a chatbot that speaks my language (not English. Jam)
-- (not bragging)
+- Feel free to try it out. Every user shall get monetary benefits equalling to one penny, adjusted for inflation from the year 3026.
 
 > What do you think is the full form of Jam? 
 
@@ -41,7 +41,6 @@
 | [Genimatic](https://github.com/UnitaryIron/Genimatic) | Open-source AI image generation website, with different styles, gallery etc. powered by Pollinations API |
 | AI Assistant | Python voice assistant using gTTS, , Wikipedia, system control & more |
 
-- Don't you think it's cool?
 ---
 
 ### Contact
@@ -51,5 +50,5 @@
 - How old do you think I am? 
 ---
 <p align="center">
-  <em>Got the full form yet? It's just a name. Ever bothered asking Guido Van Rossum the full form of Python? It could be a side quest!</em>
+  <em>Got the full form yet? (Just a name!)</em>
 </p>
