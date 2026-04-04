@@ -52,8 +52,7 @@ I've had conversations and received feedback from:
 
 ### Contact
 
-- Email: em.lijo@outlook.com
-- Portfolio: https://em-lijo.vercel.app
+- Email: unitaryiron@proton.me
 - GitHub: [@UnitaryIron](https://github.com/UnitaryIron)
 
 ---
