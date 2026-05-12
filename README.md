@@ -34,7 +34,7 @@ Some of my work and ideas have received feedback from researchers and educators,
 
 ## Contact
 
-- Email: unitaryiron@proton.me  
+- Email: emmanuel.lijo@proton.me  
 - GitHub: @UnitaryIron  
 
 ---
