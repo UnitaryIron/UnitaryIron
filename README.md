@@ -1,42 +1,45 @@
-# Hi, I build programming languages, AI systems, and interactive software.
+# hi
 
-I’m a developer focused on making computing more intuitive and expressive.
-
-Currently building **Jam**, a programming language designed to reduce cognitive load and align code with natural human thinking.
-
----
-
-## Work
-
-- Designed and implemented **Jam**, including a transpiler, interpreter, and web-based IDE  
-- Built interactive **physics simulations** with real-time visualization  
-- Developed AI systems with speech recognition and natural language capabilities  
-- Created full-stack applications with authentication, APIs, and scalable architecture  
+i like to build stuff and think that it should be cool, intuitive and expressive. so my projects reflect that.
+currently re-designing jam's IDE's interface, and contemplating on the design choices of syntax. if you're curious about Jam and follow it once in a while, you may encounter some changes in the syntax.
 
 ---
 
-## Interests
+## stuff I've done so far!
 
-- Programming Language Design  
-- Human-Centered Computing  
-- Educational Technology  
-- Full Stack Development  
-
----
-
-## Notes
-
-I learn by building, then revisiting systems to understand them deeply.
-
-Some of my work and ideas have received feedback from researchers and educators, including Vint Cerf and Amy J Ko. 
+- designed and implemented **Jam**, a beginner friendly programming language, with an IDE, interpreter, compiler etc. with the help of some folks.
+- built **GravityGrid**, a physics simulation website where you can test out your hypotheses. do inform me if there are inaccuracies.
+- developed stuff similar to Jarvis in my laptop that can talk and do stuff.
+- created full stack applications that uses APIs, authentication, and are scalable.
 
 ---
 
-## Contact
+## stuff I'm into
+
+- programming languages, compilers etc.
+- AI/ML
+- literature
+- chess
+- math
+- and many others
+
+---
+
+## some more to say:
+
+i try to learn by doing. in fact, jumping into totally unknown stuff is one of my favorite hobbies. i do hold the opinion that everyone should try to do that instead of just following tutorials all the time. you'll struggle probably, and so did I, but it should help ya later.
+
+Also, Jam had received feedback from researchers and educators worldwide. Some offered technical guidance, some wished good luck etc. a nice experience. In fact, I'm definitely sure that if you're on GitHub, you probably know many of them. They include Vint Cerf, Amy J. Ko, Brian Harvey etc. 
+
+---
+
+## if you wanna talk then,
 
 - Email: emmanuel.lijo@proton.me  
 - GitHub: @UnitaryIron  
 
+it doesn't need to be a technical question or anything ig. 
+
 ---
 
-*What do you think Jam stands for?*
+fyi: on average, i wouldd be younger than many of y'all reading this. 
